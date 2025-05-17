@@ -74,6 +74,7 @@ const App = () => {
           {amount} {fromCurrency} = {convertedAmount} {toCurrency}
         </h2>
       )}
+       <h1> hello </h1>
     </div>
   );
 };
